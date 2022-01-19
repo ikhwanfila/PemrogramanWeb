@@ -1,0 +1,185 @@
+.navbar a:hover{
+    font-size: 30px;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar .home{
+    position: absolute;
+    width: 67px;
+    height: 27px;
+    left: 1338px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .about{
+    position: absolute;
+    width: 68px;
+    height: 27px;
+    left: 1220px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .job{
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    left: 1133px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .image-logo{
+    position: absolute;
+    width: 220px;
+    height: 93px;
+    left: 3px;
+    top: -13px;
+    border-radius: 42px;
+}
+.image-background{
+    position: absolute;
+    width: 1440px;
+    height: 460px;
+    left: 0px;
+    top: 80px;
+    border-radius: 21px;
+}
+.badan .p1{
+    position: absolute;
+    width: 1063px;
+    height: 132px;
+    left: 188px;
+    top: 591px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.badan .p2{
+    position: absolute;
+    width: 1063px;
+    height: 99px;
+    left: 189px;
+    top: 760px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.badan .p3{
+    position: absolute;
+    width: 1034px;
+    height: 49px;
+    left: 202px;
+    top: 897px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #000000;
+}
+.foot .line{
+    position: absolute;
+    width: 1440px;
+    height: 58px;
+    left: 0px;
+    top: 991px;
+    border-radius: 10px;
+}
+.foot a:hover{
+    font-size: 27px;
+}
+.foot a{
+    text-decoration: none;
+}
+.foot .carikerja{
+    position: absolute;
+    width: 180px;
+    height: 33px;
+    left: 288px;
+    top: 1003px;   
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.foot .beranda{
+    position: absolute;
+    width: 92px;
+    height: 33px;
+    left: 994px;
+    top: 1003px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.foot .logo{
+    position: absolute;
+    width: 281px;
+    height: 118px;
+    left: 580px;
+    top: 1085px;
+}
+.foot .p4{
+    position: absolute;
+    width: 229px;
+    height: 99px;
+    left: 606px;
+    top: 1219px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.foot .line2{
+    position: absolute;
+    width: 1440px;
+    height: 82px;
+    left: 0px;
+    top: 1372px;
+    border-radius: 10px;
+}
+.foot .p5{
+    position: absolute;
+    width: 172px;
+    height: 33px;
+    left: 634px;
+    top: 1380px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}

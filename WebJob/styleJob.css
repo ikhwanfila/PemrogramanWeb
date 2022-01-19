@@ -1,0 +1,428 @@
+.navbar a:hover{
+    font-size: 30px;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar .home{
+    position: absolute;
+    width: 67px;
+    height: 27px;
+    left: 1338px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .about{
+    position: absolute;
+    width: 68px;
+    height: 27px;
+    left: 1220px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .job{
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    left: 1133px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .image-logo{
+    position: absolute;
+    width: 220px;
+    height: 93px;
+    left: 3px;
+    top: -13px;
+    border-radius: 42px;
+}
+.image-background{
+    position: absolute;
+    width: 1440px;
+    height: 460px;
+    left: 0px;
+    top: 80px;
+    border-radius: 21px;
+}
+.p1{
+    position: absolute;
+    width: 229px;
+    height: 33px;
+    left: 605px;
+    top: 550px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}
+.image-background1 .imagebackground1{
+    position: absolute;
+    width: 1440px;
+    height: 449px;
+    left: 0px;
+    top: 640px;
+}
+.image-background1 .p2{
+    position: absolute;
+    width: 330px;
+    height: 49px;
+    left: 562px;
+    top: 666px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000;
+}
+.image-background1 .p6{
+    position: absolute;
+    width: 1357px;
+    height: 66px;
+    left: 41px;
+    top: 729px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background1 .p7{
+    position: absolute;
+    width: 1357px;
+    height: 165px;
+    left: 41px;
+    top: 809px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background1 .p8{
+    position: absolute;
+    width: 1357px;
+    height: 33px;
+    left: 41px;
+    top: 1017px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: green;
+}
+.image-background1 a:hover{
+    font-size: 30px;
+}
+.image-background1 a{
+    text-decoration: none;
+}
+.image-background2 .imagebackground2{
+    position: absolute;
+    width: 1440px;
+    height: 449px;
+    left: 0px;
+    top: 1112px;
+}
+.image-background2 .p3{
+    position: absolute;
+    width: 290px;
+    height: 49px;
+    left: 581px;
+    top: 1138px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000;
+}
+.image-background2 .p9{
+    position: absolute;
+    width: 1357px;
+    height: 33px;
+    left: 41px;
+    top: 1201px;  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background2 .p10{
+    position: absolute;
+    width: 1357px;
+    height: 132px;
+    left: 41px;
+    top: 1248px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background2 .p11{
+    position: absolute;
+    width: 1357px;
+    height: 33px;
+    left: 41px;
+    top: 1474px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: green;
+}
+.image-background2 a:hover{
+    font-size: 30px;
+}
+.image-background2 a{
+    text-decoration: none;
+}
+.image-background3 .imagebackground3{
+    position: absolute;
+    width: 1440px;
+    height: 449px;
+    left: 0px;
+    top: 1584px;
+}
+.image-background3 .p4{
+    position: absolute;
+    width: 230px;
+    height: 49px;
+    left: 613px;
+    top: 1610px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000; 
+}
+.image-background3 .p12{
+    position: absolute;
+    width: 1357px;
+    height: 66px;
+    left: 41px;
+    top: 1673px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background3 .p13{
+    position: absolute;
+    width: 1357px;
+    height: 132px;
+    left: 41px;
+    top: 1753px;   
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background3 .p14{
+    position: absolute;
+    width: 1357px;
+    height: 33px;
+    left: 41px;
+    top: 1956px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: green;
+}
+.image-background3 a:hover{
+    font-size: 30px;
+}
+.image-background3 a{
+    text-decoration: none;
+}
+.image-background4 .imagebackground4{
+    position: absolute;
+    width: 1440px;
+    height: 449px;
+    left: 0px;
+    top: 2056px;
+}
+.image-background4 .p5{
+    position: absolute;
+    width: 310px;
+    height: 49px;
+    left: 569px;
+    top: 2082px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000; 
+}
+.image-background4 .p15{
+    position: absolute;
+    width: 1357px;
+    height: 66px;
+    left: 41px;
+    top: 2145px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background4 .p16{
+    position: absolute;
+    width: 1357px;
+    height: 132px;
+    left: 41px;
+    top: 2225px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.image-background4 .p17{
+    position: absolute;
+    width: 1357px;
+    height: 33px;
+    left: 41px;
+    top: 2413px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: green;
+}
+.image-background4 a:hover{
+    font-size: 30px;
+}
+.image-background4 a{
+    text-decoration: none;
+}
+.kaki .line1 .image-line1{
+    position: absolute;
+    width: 1440px;
+    height: 58px;
+    left: 0px;
+    top: 2550px;
+    border-radius: 10px;
+}
+.kaki .line1 a:hover{
+    font-size: 30px;
+}
+.kaki .line1 a{
+    text-decoration: none;
+}
+.kaki .line1 .p18{
+    position: absolute;
+    width: 190px;
+    height: 33px;
+    left: 306px;
+    top: 2562px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.kaki .line1 .p19{
+    position: absolute;
+    width: 92px;
+    height: 33px;
+    left: 976px;
+    top: 2562px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.kaki .logo{
+    position: absolute;
+    width: 281px;
+    height: 118px;
+    left: 580px;
+    top: 2644px;
+}
+.kaki .p20{
+    position: absolute;
+    width: 229px;
+    height: 99px;
+    left: 606px;
+    top: 2778px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;  
+    color: #000000;
+}
+.kaki .line2 .image-line2{
+    position: absolute;
+    width: 1440px;
+    height: 82px;
+    left: 0px;
+    top: 2931px;
+    border-radius: 10px;
+}
+.kaki .line2 .p21{
+    position: absolute;
+    width: 172px;
+    height: 33px;
+    left: 634px;
+    top: 2935px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}

@@ -1,0 +1,208 @@
+.navbar a:hover{
+    font-size: 30px;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar .home{
+    position: absolute;
+    width: 67px;
+    height: 27px;
+    left: 1338px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .about{
+    position: absolute;
+    width: 68px;
+    height: 27px;
+    left: 1220px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .job{
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    left: 1133px;
+    top: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+.navbar .image-logo{
+    position: absolute;
+    width: 220px;
+    height: 93px;
+    left: 3px;
+    top: -13px;
+    border-radius: 42px;
+}
+.image-background{
+    position: absolute;
+    width: 1440px;
+    height: 460px;
+    left: 0px;
+    top: 80px;
+    border-radius: 21px;
+}
+.badan .samsantech1{
+    position: absolute;
+    width: 528px;
+    height: 286px;
+    left: 75px;
+    top: 606px;
+    border-radius: 35px;
+}
+.badan .samsantech2{
+    position: absolute;
+    width: 528px;
+    height: 286px;
+    left: 234px;
+    top: 668px;
+    border-radius: 35px;
+}
+.badan .p1{
+    position: absolute;
+    width: 548px;
+    height: 348px;
+    left: 801px;
+    top: 606px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.badan .samsantech3{
+    position: absolute;
+    width: 527px;
+    height: 286px;
+    left: 874px;
+    top: 1050px;
+    border-radius: 35px;
+}
+.badan .p2{
+    position: absolute;
+    width: 767px;
+    height: 376px;
+    left: 68px;
+    top: 1035px;   
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.kaki .line1{
+    position: absolute;
+    width: 1440px;
+    height: 58px;
+    left: 0px;
+    top: 1456px;
+    border-radius: 10px;
+}
+.kaki .a1{
+    position: absolute;
+    width: 108px;
+    height: 33px;
+    left: 293px;
+    top: 1468px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.kaki .a2{
+    position: absolute;
+    width: 190px;
+    height: 33px;
+    left: 644px;
+    top: 1468px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.kaki .a3{
+    position: absolute;
+    width: 92px;
+    height: 33px;
+    left: 1038px;
+    top: 1468px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: green;
+}
+.kaki a:hover{
+    font-size: 30px;
+}
+.kaki a{
+    text-decoration: none;
+}
+.kaki .logo{
+    position: absolute;
+    width: 281px;
+    height: 118px;
+    left: 580px;
+    top: 1550px;
+}
+.kaki .p3{
+    position: absolute;
+    width: 232px;
+    height: 99px;
+    left: 604px;
+    top: 1684px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.kaki .line2{
+    position: absolute;
+    width: 1440px;
+    height: 82px;
+    left: 0px;
+    top: 1837px;
+    border-radius: 10px;
+}
+.kaki .p4{
+    position: absolute;
+    width: 171px;
+    height: 33px;
+    left: 634px;
+    top: 1840px; 
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}
