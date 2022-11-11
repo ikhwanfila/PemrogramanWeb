@@ -2,3 +2,4 @@ Hai, my name is Ikhwan Fi'la Wadzakiyya and i'm from Indonesia.
 My Resolution:
 - Proficient in use git and github.
 - Proficient in app development.
+- Proficient in web development.
